@@ -155,12 +155,6 @@ concurrently "cd Backend && npm start" "cd Frontend && npm run dev"
 
 ---
 
-## 📎 Demo Video
-
-Watch how PennyPilot works:
-
-👉 [**Watch Demo Video Here**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 > 💡 Replace the placeholder link with your actual video URL (e.g., YouTube, Vimeo).
 
 ---
@@ -206,9 +200,7 @@ For questions or contributions, reach out to:
 ---
 
 ## 🎥 Watch the Full Demo
-
-[![Watch on YouTube](https://youtu.be/XuJrNw1_Crc)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
+![Video Demonstration](https://youtu.be/XuJrNw1_Crc)
 > 🔗 Replace with your actual video thumbnail and link.
 
 ---
